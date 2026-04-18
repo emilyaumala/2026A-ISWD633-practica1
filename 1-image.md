@@ -17,10 +17,13 @@ Descargar la imagen **hello-world**
 # COMPLETAR
 
 **¿Qué es nginx?**
+NGINX es un software de código abierto para servidores web, proxy inverso, almacenamiento en caché, equilibrio de carga, transmisión de medios y más .
+
 # COMPLETAR 
 
 Descargar la imagen  **nginx** en la versión **alpine**
 # COMPLETAR
+<img width="2350" height="1225" alt="image" src="https://github.com/user-attachments/assets/417f8038-9aa0-4e80-97e6-136f329ead23" />
 
 ### Listar imágenes
 
@@ -29,6 +32,9 @@ docker images
 ```
 
 # COLOCAR UNA CAPTURA DE PANTALLA DEL RESULTADO 
+
+<img width="2880" height="1524" alt="image" src="https://github.com/user-attachments/assets/ebda9461-f07e-431a-a985-129156ceed1d" />
+
 
 **Identificadores**
 
